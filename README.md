@@ -1,6 +1,6 @@
 # Week_2_Rproject
-R has in built datasets available in it from which I used BullTroutRML2.
-The dataset provided in the assignment required visualization and data analysis by R studio
-By summarizing the datset, I acquired Mean, Median, Mode and so on
-The visualization has a linear relationship between Age and Fork Length.
-Histogram unfolds that most of the species frequency lies in between 0 and 10.
+The file has all the information of BullTroutRML2 dataset analysed in R language(R studio). Specifically, summary, visualizations, key findings, references, appendix, and conclusion with R script code execution given in R file.
+In this repository, I included three files with README.md file:
+1.	Executive Summary Report
+2.	R project(R script with code)
+3.	The pdf file
